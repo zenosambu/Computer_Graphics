@@ -1,0 +1,9 @@
+# File created by ZBrush
+# ToolType: PolyMesh3D
+# www.zbrush.com
+newmtl defaultMat
+map_Kd lambertian-lores.png
+#map_bump -bm 0.001 bump.png
+map_bump -bm 0.02 normal-lores.png
+Ks .15 .15 .15
+Ns 50
